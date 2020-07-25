@@ -45,4 +45,16 @@
       - Partial Dependence Plot (PDP) average over all ICE's  
         - Two features at the same time, heatmap  
       - SHapley Additive exPlanations (SHAP), waterfall chart
+      
+### Trendy Claims Handing Modeling Technique  
+ - Claim fraud detection  
+ - Large claim prediction (Claim Triage)  
+ - Legal outcome prediction
 
+### Non-actuarial application  
+ - Cross-sell  
+ - Up-sell  
+
+Spatial-Temporal Analysis is hot. 
+- Spatial lag, 
+- clustering, CSR testing (completely stochastic testing)
