@@ -3,8 +3,8 @@
   - Pricing  
   - Reserving
 - Life Insurance Pricing  
- - coverage
- - mortatily rate (life table)
+  - coverage  
+  - mortatily rate (life table)  
 - Underwriting income = Premium - Loss
 - Investment income  
 
